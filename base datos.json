@@ -1,0 +1,203 @@
+{
+  "eventos": [
+    {
+      "id": 2001,
+      "nombre": "Concierto de musica clasica",
+      "pais": "Colombia",
+      "ciudad": "Bucaramanga",
+      "lugar": "Auditorio Ágora",
+      "fecha": "19/09/2018",
+      "hora": "14:00",
+      "sePaga": false,
+      "costo": 0,
+      "descripcion": "La musica clasica es la corriente musical que casa principalmente la musica producida o basada en las tradiciones de la música liturgica y secular de Occidente, principalmente Europa Occidental",
+      "categoria": "musica",
+      "capacidad": 150,
+      "imagen": "http://thr2y3lcnnh2ths9v2z7pw0h.wpengine.netdna-cdn.com/wp-content/uploads/2017/03/clasica_0-810x539.jpg",
+      "compartidos": 0,
+      "interesados":0,
+      "meGusta":0,
+      "calificacion": {"logistica": 0,
+                   "comodidad": 0,
+                   "entretenido": 0,
+                   "interesante": 0
+                  }
+    },
+    {
+      "id": 2002,
+      "nombre": "Concierto de rock",
+      "pais": "Colombia",
+      "ciudad": "Bucaramanga",
+      "lugar": "Auditorio Luis A. Calvo",
+      "fecha": "20/09/2018",
+      "hora": "19:00",
+      "sePaga": true,
+      "costo": 8000,
+      "descripcion": " El rock es un término amplio que agrupa a una variedad de géneros de música popular. Su forma originaria, conocida como rock and roll, surgió mayormente de la combinación de dos géneros anteriores como eran el rhythm and blues y el country",
+      "categoria": "musica",
+      "capacidad": 250,
+      "imagen": "https://image.shutterstock.com/z/stock-vector-vintage-label-rock-and-roll-style-typography-elements-193422005.jpg",
+      "compartidos": 0,
+      "interesados":0,
+      "meGusta":0,
+      "calificacion": {"logistica": 0,
+                   "comodidad": 0,
+                   "entretenido": 0,
+                   "interesante": 0
+                  }
+    },
+    {
+      "id": 2003,
+      "nombre": "Concierto de jazz",
+      "pais": "Colombia",
+      "ciudad": "Bucaramanga",
+      "lugar": "Auditorio al aire libre Jose Antonio Galan",
+      "fecha": "20/10/2018",
+      "hora": "17:30",
+      "sePaga": false,
+      "costo": 0,
+      "descripcion": "El jazz es un género musical nacido a finales del siglo XIX en los Estados Unidos, que se expandió de forma global a lo largo de todo el siglo XX. ",
+      "categoria": "musica",
+      "capacidad": 550,
+      "imagen": "https://i.ytimg.com/vi/k_WRHdBGUog/maxresdefault.jpg",
+      "compartidos": 0,
+      "interesados":0,
+      "meGusta":0,
+      "calificacion": {"logistica": 0,
+                   "comodidad": 0,
+                   "entretenido": 0,
+                   "interesante": 0
+                  }
+    },
+    {
+      "id": 2004,
+      "nombre": "Concierto Ricardo Gallo Cuarteto ",
+      "pais": "Colombia",
+      "ciudad": "Bucaramanga",
+      "lugar": "Auditorio Luis A. Calvo",
+      "fecha": "10/10/2018",
+      "hora": "19:30",
+      "sePaga": true,
+      "costo": 10000,
+      "descripcion": "En este concierto, Ricardo Gallo Cuarteto estrena su quinto álbum titulado 'En Tránsito'.",
+      "categoria": "Concierto",
+      "capacidad": 2000,
+      "imagen": "https://universoabiertoblog.files.wordpress.com/2017/03/31.jpg",
+      "compartidos": 0,
+      "interesados":0,
+      "meGusta":0,
+      "calificacion": {"logistica": 0,
+                   "comodidad": 0,
+                   "entretenido": 0,
+                   "interesante": 0
+                  }
+    },
+    {
+      "id": 2005,
+      "nombre": "El Quijote",
+      "pais": "Colombia",
+      "ciudad": "Bucaramanga",
+      "lugar": "Auditorio Luis A. Calvo",
+      "fecha": "21/09/2018",
+      "hora": "19:00",
+      "sePaga": true,
+      "costo": 7000,
+      "descripcion": " El ingenioso hidalgo don Quijote de la Mancha a comienzos de 1605, es la obra mas destacada de la literatura española y una de las principales de la literatura universal.",
+      "categoria": "teatro",
+      "capacidad": 250,
+      "imagen": "https://letralia.com/wp-content/uploads/2018/04/quijote.jpg",
+      "compartidos": 0,
+      "interesados":0,
+      "meGusta":0,
+      "calificacion": {"logistica": 0,
+                   "comodidad": 0,
+                   "entretenido": 0,
+                   "interesante": 0
+                  }
+    },
+   {
+      "id": 2006,
+      "nombre": "danza artistica",
+      "pais": "Colombia",
+      "ciudad": "Bucaramanga",
+      "lugar": "Auditorio al aire libre Jose Antonio Galan",
+      "fecha": "2/10/2018",
+      "hora": "17:30",
+      "sePaga": false,
+      "costo": 0,
+      "descripcion": " La danza o el baile es un arte donde se utiliza el movimiento del cuerpo usualmente con música, como una forma de expresión y de interacción social",
+      "categoria": "Danza",
+      "capacidad": 550,
+      "imagen": "http://www.danzacomun.com/wp-content/uploads/2018/08/Ensenar-bailar-danza-ninos-estrategias.jpg",
+      "compartidos": 0,
+      "interesados":0,
+      "meGusta":0,
+      "calificacion": {"logistica": 0,
+                   "comodidad": 0,
+                   "entretenido": 0,
+                   "interesante": 0
+                  }
+    },
+    {
+      "id": 2007,
+      "nombre": "la Trilogia de Bill",
+      "pais": "Colombia",
+      "ciudad": "Bucaramanga",
+      "lugar": "Sala Jorge Salamea",
+      "fecha": "5/10/2018",
+      "hora": "12:30",
+      "sePaga": false,
+      "costo": 0,
+      "descripcion": "Al detective retirado Hodges, que dirige una agencia de investigación privada con Holly, le diagnostican un cáncer de páncreas: le quedan meses de vida. En ese momento Hodges investiga una serie de suicidios recientes con un punto en común: todos los fallecidos tuvieron relación con Brady Hartsfield, el tristemente famoso Mercedes, que hace años planeó volar una sala",
+      "categoria": "cine",
+      "capacidad": 150,
+      "imagen": "https://www.araucacity.com/wp-content/uploads/job-manager-uploads/main_image/2016/07/cineko-real-sala-de-cine-en-arauca-pantalla-gigante-peliculas-infantiles-en-arauca.jpg",
+      "compartidos": 0,
+      "interesados":0,
+      "meGusta":0,
+      "calificacion": {"logistica": 0,
+                   "comodidad": 0,
+                   "entretenido": 0,
+                   "interesante": 0
+                  }
+    }
+  ],
+  "usuarios": [
+    {
+      "idMovil":"jud_10",
+      "correoMovil":"julen@fg.com",
+      "nombre":"julen ",
+      "apellido":"lopetegui",
+      "contraseña":"julen10sisi",
+      "favoritos": [2007,2006,2005],
+      
+      "preferencias":[ 2007,2006,2005
+      ],
+      "recompensas":{ "calificar": 0,
+                   "interes": 0,
+                   "compartir": 0,
+                   "asistir": 0,
+                   "megusta": 0
+        
+      }
+    },
+    {
+      "idMovil":"jul_10",
+      "correoMovil":"juliann@fg.com",
+      "nombre":"julian ",
+      "apellido":"messi",
+      "contraseña":"julian10sisi",
+      "favoritos": [2001,2003,2007],
+      
+      "preferencias":[ 2007,2006,2005
+      ],
+      "recompensas":{ "calificar": 0,
+                   "interes": 0,
+                   "compartir": 0,
+                   "asistir": 0,
+                   "megusta": 0
+        
+      }
+    }
+    ]
+}
